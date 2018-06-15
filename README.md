@@ -7,8 +7,12 @@ A list of Open Source Haskell projects appreciate contributions.
   to newbies, and estimated time to hear back from the maintainer of the repo.
 
 ## Smaller Projects
-- By name and link
+- By name and link This may be of help for persons intimidated by the size of code involved in open source, or
+  the number of persons involved in larger projects / repos.
 
 ## Larger Projects
+- More people, faster help, larger code-base.
 
+## Pull requests
+- Please feel free to add a pull request if you'd like to add to the repo. Thank you! :D
 
