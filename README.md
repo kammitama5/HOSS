@@ -10,10 +10,14 @@ A list of Open Source Haskell projects appreciate contributions.
 
 ## Smaller Projects
 - By name and link This may be of help for persons intimidated by the size of code involved in open source, or
-  the number of persons involved in larger projects / repos.
+  the number of persons involved in larger projects / repos. (alphabetize)
+  
+- [CodeWorld](https://github.com/google/codeworld)
+
 
 ## Larger Projects
 - More people, faster help, larger code-base.
+- 
 
 ## Pull requests
 - Please feel free to add a pull request if you'd like to add to the repo. Thank you! :D
