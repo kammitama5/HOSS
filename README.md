@@ -17,7 +17,7 @@ A list of Open Source Haskell projects appreciate contributions.
 
 ## Larger Projects
 - More people, faster help, larger code-base.
-- 
+- [GHC](https://github.com/ghc/ghc)
 
 ## Pull requests
 - Please feel free to add a pull request if you'd like to add to the repo. Thank you! :D
